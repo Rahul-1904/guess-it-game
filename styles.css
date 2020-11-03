@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+
+body{
+    margin: 0;
+    background-color:white;
+    font-family: 'Itim', cursive;
+}
+
+.main-sec{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: left;
+    margin-top: 10%;
+   
+}
+p{
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Itim', cursive;
+}
+.green{
+   color: green;
+}
+.red{
+   color: red; 
+}
+.input-sec{
+    width: 150px;
+    height: 40px;
+    display: block;
+    border: none;
+    padding: 10px; 
+    background-color: lightblue;
+    color: white; 
+}
+::placeholder{
+    color: white;
+    font-size: 15px;
+}
+.btn{
+    width: 76px;
+    height: 39px;
+    margin-top: 10px;
+    border: none;
+    padding: 10px; 
+}
